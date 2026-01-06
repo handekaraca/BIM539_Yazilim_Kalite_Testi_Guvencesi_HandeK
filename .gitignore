@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+test.db
+test_database.db
+*.log
+.env
+.vscode/
+
+# Ignore project requirement files and scripts
+Sinav.pdf
+*.ps1
+output.txt
+error_log.txt
+*.tmp
